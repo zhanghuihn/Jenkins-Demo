@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>version 0.01</h1>
+<h1>version 0.2</h1>
 </body>
 </html>
